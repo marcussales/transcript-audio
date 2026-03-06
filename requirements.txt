@@ -1,0 +1,7 @@
+ipykernel
+openai
+python-dotenv
+streamlit
+streamlit-webrtc
+moviepy
+pydub
